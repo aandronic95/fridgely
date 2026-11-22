@@ -1,7 +1,5 @@
-# Fridgely — landing page
+# Fridgely — site
 
-Frigiderul tău îți face meniul. Pagina de prezentare și waitlist pentru aplicația Fridgely (iOS + Android).
+Landing page și paginile legale (Vue 3 + Vite). Sursa e arhivată în `src.b64` (tar.gz în base64); GitHub Actions o construiește și o publică pe https://fridgely.devhub.md la fiecare push.
 
-Live: https://aandronic95.github.io/fridgely/
-
-Formularul de waitlist salvează emailurile în Supabase (tabela `waitlist`, doar înscriere — lista nu poate fi citită public).
+Pagini: `/`, `/privacy.html`, `/terms.html`, `/support.html`, `/delete-account.html`.
